@@ -13,7 +13,7 @@ The model uses the Random Forest Classification algorithm. This algorithm works 
 The model was trained and tested on a split of the dataset. The parameters used for training include the number of trees in the forest, the maximum depth of the trees, and the minimum number of samples required to split an internal node. The model's performance was evaluated using accuracy, precision, and recall metrics.
 
 ## Usage
-To use the model, run the following command:
+To use the model, run the following command: python main.py
 
 
 ## Results
